@@ -39,3 +39,43 @@ This Power BI project answers the following key business questions:
 
 **8. Sales by City**
  - Used map visuals and column charts to represent city-level sales for regional performance analysis.
+
+## Tools & Techniques Used
+ - Power BI Desktop
+ - DAX (Data Analysis Expressions)
+   - Calculated Columns
+   - Measures for KPIs like Net Sales, Total Orders, etc.
+ - Visual Filters & Slicers
+   - Product, Date, City, Customer ID, Category, Promotion Category
+ - Visualization Types:
+   - Bar Charts
+   - Line Graphs
+   - Pie Charts
+   - Matrix Tables
+   - Stacked Column Charts
+   - Scatter Plots
+   - Maps
+
+## Dashboard Features
+ - Interactive Filters: Users can filter by product, customer, date, city, and category.
+ - Drill-down Capabilities: Navigate from annual to daily data.
+ - Dynamic Period Comparison: Select and compare two periods dynamically to track change in sales or profit.
+ - KPI Cards: Display total sales, total orders, net profit, and discount offered at a glance.
+ - Visual Correlation: Understand the connection between sales and profit using intuitive visuals.
+ - Location-Based Analysis: City-wise performance insights using geographical visuals.
+
+## Key Insights
+ - Products with the highest and lowest sales and profitability were clearly identified.
+ - Sales trends revealed strong monthly and quarterly patterns, helping in forecasting demand.
+ - Profitability was found to correlate closely with certain high-selling items, while some low-selling items had high profit margins.
+ - Discount categories showed that not all discounts lead to higher sales, guiding future pricing strategies.
+ - Comparison between two custom-selected periods allowed users to monitor business growth or decline over time.
+ - Some cities performed significantly better, indicating opportunities for geographic expansion or focused marketing.
+
+## Key Insights
+ - Products with the highest and lowest sales and profitability were clearly identified.
+ - Sales trends revealed strong monthly and quarterly patterns, helping in forecasting demand.
+ - Profitability was found to correlate closely with certain high-selling items, while some low-selling items had high profit margins.
+ - Discount categories showed that not all discounts lead to higher sales, guiding future pricing strategies.
+ - Comparison between two custom-selected periods allowed users to monitor business growth or decline over time.
+ - Some cities performed significantly better, indicating opportunities for geographic expansion or focused marketing.
