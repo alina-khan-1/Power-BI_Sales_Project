@@ -10,6 +10,7 @@ This project demonstrates proficiency in creating dynamic dashboards, using slic
 
 ## Business Questions Answered
 This Power BI project answers the following key business questions:
+
 **1. Top/Bottom 5 Products by Sales, Profit, and Quantity Sold.**
  - Identified top and bottom 5 performing products based on various metrics to assist with inventory and marketing strategies.
 
@@ -72,10 +73,3 @@ This Power BI project answers the following key business questions:
  - Comparison between two custom-selected periods allowed users to monitor business growth or decline over time.
  - Some cities performed significantly better, indicating opportunities for geographic expansion or focused marketing.
 
-## Key Insights
- - Products with the highest and lowest sales and profitability were clearly identified.
- - Sales trends revealed strong monthly and quarterly patterns, helping in forecasting demand.
- - Profitability was found to correlate closely with certain high-selling items, while some low-selling items had high profit margins.
- - Discount categories showed that not all discounts lead to higher sales, guiding future pricing strategies.
- - Comparison between two custom-selected periods allowed users to monitor business growth or decline over time.
- - Some cities performed significantly better, indicating opportunities for geographic expansion or focused marketing.
